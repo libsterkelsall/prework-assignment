@@ -1,0 +1,45 @@
+Module 8 – Debugging
+List of errors found:
+
+HTML File
+
+Line 19 inserted missing h1 tag
+
+Line 20 Took out “Instructions” box
+
+Lines 28- 38 added p tags
+
+Line 38 corrected link
+
+Line 47 corrected image
+
+LINE 48 WHAT is that red “div” ??
+
+Line 59 rekeyed class instruction
+
+Lines 72 – 76 added li tags to list
+
+Lines 90 – 92 corrected colours
+
+Line 115 Linking java file
+
+Line 116 correct src file
+
+
+JS FILE
+
+Lines 2-6 added “array” and separated facts with quotes and commas
+
+Line 9 put pink in quotes
+
+Line 20 put click in quotes
+
+Line 24 put click in quotes
+
+
+
+
+
+
+
+

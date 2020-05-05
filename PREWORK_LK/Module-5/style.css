@@ -1,0 +1,41 @@
+  h1 {
+      text-align: center
+  }
+  #p01 {
+    color: crimson;
+  }
+  #p02 {
+    color: darkblue;
+  }
+  #p03 {
+    color: darkgreen;
+  }
+  #p04 {
+    font-size: 300%;
+  }
+  #p05 {
+    font-size: 50%;
+  }
+  #p06 {
+    text-align: center;
+  }
+  #p07 {
+    font-weight: bold;
+  }
+  #p08 {
+    font: 15px Arial, sans-serif
+  }
+  #p09 {
+    font-size: 150%;
+    color: orange;
+    font-weight: bold;
+  }
+  p.styledFont {
+  font-weight: bold;  
+  color: green
+  }
+  #styledImage {
+    border-style: solid;
+    border-width: thick;
+    color: orange;
+}
